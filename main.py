@@ -46,3 +46,4 @@ while chances > 0 and not game_over:
 
 if chances == 0:
     print("You've run out of guesses, you lose.")
+
